@@ -2,7 +2,7 @@
 
 * 👋 My name is Damir. I'm from Russia
 * 👨🏻‍💻 Software Engineering student in KFU ITIS in Kazan, Russia.
-* 📫 How to reach me: `rahmatullin.damir21@gmail.com` or `@iluvdamir` in Telegram
+* 📫 How to reach me: `rahmatullin.damir21@gmail.com` or `@damirhateyou` in Telegram
 * 🌚 My LinkedIn: [rahmatullinDamir](https://linkedin.com/in/rahmatullinDamir)
 
 
