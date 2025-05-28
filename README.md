@@ -5,7 +5,8 @@
 * 📫 How to reach me: `rahmatullin.damir21@gmail.com` or `@damirhateyou` in Telegram
 * 🌚 My LinkedIn: [rahmatullinDamir](https://linkedin.com/in/rahmatullinDamir)
 
-
+### My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labinochka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rahmatullinDamir/rahmatullinDamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
